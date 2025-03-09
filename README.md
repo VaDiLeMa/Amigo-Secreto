@@ -1,2 +1,2 @@
-# Amigo-Secreto
-Desafio ONE ALURA LATAM
+Desafio Amigo secreto ONE-ORACLE/ALURA-LATAM
+Aprendiendo a desarrollar con javaScipt,HTML
